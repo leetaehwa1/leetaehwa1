@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Lee's%20Git&section=header&fontColor=gradient&fontAlign=50&textBg=false)
 <!--
 **leetaehwa1/leetaehwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
