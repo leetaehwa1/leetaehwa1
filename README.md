@@ -78,13 +78,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leetaehwa1&show_icons=true)
+<img src="https://streak-stats.demolab.com?user=leetaehwa1&theme=tokyonight&hide_border=true" height="180" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehwa1&layout=compact)
+</div>
+
+---
+
+<div align="center">
+
+### 꾸준히 배우고, 직접 구현하며 성장하는 개발자입니다.
 
 </div>
 
