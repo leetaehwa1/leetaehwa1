@@ -94,7 +94,6 @@
 
 ### 저의 프로젝트 경험과 성장 과정을 정리한 포트폴리오입니다.
 
-<br>
 
 <a href="포트폴리오_링크_여기에_넣기">
   <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" />
@@ -103,8 +102,6 @@
 <a href="이력서_또는_PDF_링크_여기에_넣기">
   <img src="https://img.shields.io/badge/Resume-4A90E2?style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
-
-<br><br>
 
 | 구분 | 내용 |
 | :--- | :--- |
