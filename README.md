@@ -67,7 +67,7 @@
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,mysql,oracle,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,mysql,firebase&theme=dark" />
 </p>
 
 ### Infra & Tools
@@ -82,12 +82,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leetaehwa1&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehwa1&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leetaehwa1&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehwa1&layout=compact)
 
 </div>
-
----
 
 ## 📫 Contact
 
