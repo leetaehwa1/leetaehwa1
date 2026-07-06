@@ -88,6 +88,35 @@
 
 ---
 
+## 📁 Portfolio
+
+<div align="center">
+
+### 저의 프로젝트 경험과 성장 과정을 정리한 포트폴리오입니다.
+
+<br>
+
+<a href="포트폴리오_링크_여기에_넣기">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<a href="이력서_또는_PDF_링크_여기에_넣기">
+  <img src="https://img.shields.io/badge/Resume-4A90E2?style=for-the-badge&logo=googledocs&logoColor=white" />
+</a>
+
+<br><br>
+
+| 구분 | 내용 |
+| :--- | :--- |
+| **포트폴리오** | 프로젝트 소개, 기능 구현 과정, 문제 해결 경험 정리 |
+| **기술 문서** | ERD, 화면 설계, 주요 기능 흐름 정리 |
+| **프로젝트 코드** | GitHub Repository를 통해 소스 코드 확인 가능 |
+| **개발 방향** | 사용자 경험과 데이터 흐름을 고려한 서비스 개발 |
+
+</div>
+
+---
+
 <div align="center">
 
 ### 꾸준히 배우고, 직접 구현하며 성장하는 개발자입니다.
