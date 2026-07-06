@@ -92,23 +92,18 @@
 
 <div align="center">
 
-### 저의 프로젝트 경험과 성장 과정을 정리한 포트폴리오입니다.
+### 프로젝트 경험과 구현 과정을 정리한 포트폴리오입니다.
 
-
-<a href="포트폴리오_링크_여기에_넣기">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
-
-<a href="이력서_또는_PDF_링크_여기에_넣기">
-  <img src="https://img.shields.io/badge/Resume-4A90E2?style=for-the-badge&logo=googledocs&logoColor=white" />
+<a href="https://drive.google.com/drive/folders/1cxZ5b2OTlmFDhuncPSM-jkpNlYu3_2NE?usp=sharing">
+  <img src="https://img.shields.io/badge/Portfolio-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
 | 구분 | 내용 |
 | :--- | :--- |
-| **포트폴리오** | 프로젝트 소개, 기능 구현 과정, 문제 해결 경험 정리 |
-| **기술 문서** | ERD, 화면 설계, 주요 기능 흐름 정리 |
-| **프로젝트 코드** | GitHub Repository를 통해 소스 코드 확인 가능 |
-| **개발 방향** | 사용자 경험과 데이터 흐름을 고려한 서비스 개발 |
+| **포트폴리오 문서** | 프로젝트 소개, 주요 기능, 구현 과정 정리 |
+| **설계 자료** | ERD, 화면 설계, 데이터 흐름 문서 포함 |
+| **프로젝트 경험** | 문제 해결 과정과 팀 프로젝트 기여 내용 정리 |
+| **확인 방식** | Google Drive 링크를 통해 포트폴리오 자료 확인 가능 |
 
 </div>
 
