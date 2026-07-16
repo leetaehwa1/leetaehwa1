@@ -23,36 +23,57 @@
 
 ### 💍 메리뷰 MarryView
 
-> 결혼 시장의 정보 비대칭 해소를 위한  
+<p>
+  <a href="메리뷰_GITHUB_링크">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="메리뷰_포트폴리오_또는_시연_링크">
+    <img src="https://img.shields.io/badge/Project-View%20Details-FF6B81?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+> 결혼 시장의 정보 비대칭 해소를 위한
 > **영수증 인증 기반 웨딩 리뷰 커뮤니티 플랫폼**
 
-| 특징 | 설명 |
-| :--- | :--- |
+| 특징         | 설명                               |
+| :--------- | :------------------------------- |
 | **영수증 인증** | OCR 및 DB 검증을 통한 신뢰도 높은 리뷰 시스템 구현 |
-| **커뮤니티** | 자유게시판, 후기게시판, 댓글 및 대댓글 기능 구현 |
-| **업체 관리** | 스튜디오, 드레스, 메이크업 업체 정보 관리 |
-| **신고 시스템** | 게시글, 댓글, 리뷰, 업체 신고 기능 구현 |
-| **데이터 신뢰** | 허위 리뷰 방지를 위한 데이터 무결성 관리 |
+| **커뮤니티**   | 자유게시판, 후기게시판, 댓글 및 대댓글 기능 구현     |
+| **업체 관리**  | 스튜디오, 드레스, 메이크업 업체 정보 관리         |
+| **신고 시스템** | 게시글, 댓글, 리뷰, 업체 신고 기능 구현         |
+| **데이터 신뢰** | 허위 리뷰 방지를 위한 데이터 무결성 관리          |
 
 #### 🛠 Tech
+
 `Java` `Spring Boot` `JSP` `MyBatis` `MySQL` `Vue.js` `jQuery` `Bootstrap`
 
 <br>
 
 ### 🎱 CueLinkProject
 
-> 대중적 스포츠 '당구'를 위한  
+<p>
+  <a href="큐링크_GITHUB_링크">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="큐링크_포트폴리오_또는_시연_링크">
+    <img src="https://img.shields.io/badge/Project-View%20Details-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+> 대중적 스포츠 '당구'를 위한
 > **전문 커뮤니티 및 마케팅 채널**
 
-| 특징 | 설명 |
-| :--- | :--- |
-| **실시간 통신** | Socket.io 기반 실시간 채팅 및 알림 시스템 |
-| **인증 시스템** | JWT 및 OAuth 2.0 기반 로그인 |
+| 특징         | 설명                            |
+| :--------- | :---------------------------- |
+| **실시간 통신** | Socket.io 기반 실시간 채팅 및 알림 시스템  |
+| **인증 시스템** | JWT 및 OAuth 2.0 기반 로그인        |
 | **데이터 관리** | Oracle DB를 활용한 게시물 및 회원 정보 관리 |
-| **효율적 처리** | Express 미들웨어 기반 비동기 요청 처리 |
+| **효율적 처리** | Express 미들웨어 기반 비동기 요청 처리     |
 
 #### 🛠 Tech
+
 `Node.js` `Express` `Socket.io` `JWT` `OAuth 2.0` `Oracle` `JavaScript`
+
 
 ---
 
