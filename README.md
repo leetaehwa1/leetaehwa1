@@ -24,10 +24,10 @@
 ### 💍 메리뷰 MarryView
 
 <p>
-  <a href="메리뷰_GITHUB_링크">
+  <a href="[메리뷰_GITHUB_링크](https://github.com/limhyojin3/SpringProjectTeam3)">
     <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="메리뷰_포트폴리오_또는_시연_링크">
+  <a href="[메리뷰_포트폴리오_또는_시연_링크](https://drive.google.com/file/d/1GWzzGN3e1wGMRrLC9szAoEBFKJ6zoB-X/view?usp=sharing)">
     <img src="https://img.shields.io/badge/Project-View%20Details-FF6B81?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
