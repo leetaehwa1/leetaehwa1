@@ -23,13 +23,13 @@
 
 ### 💍 메리뷰 MarryView
 
-<p>
-  <a href="[메리뷰_GITHUB_링크](https://github.com/limhyojin3/SpringProjectTeam3)">
-    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="[메리뷰_포트폴리오_또는_시연_링크](https://drive.google.com/file/d/1GWzzGN3e1wGMRrLC9szAoEBFKJ6zoB-X/view?usp=sharing)">
-    <img src="https://img.shields.io/badge/Project-View%20Details-FF6B81?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<p> 
+  <a href="https://github.com/limhyojin3/SpringProjectTeam3"> 
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  </a> 
+  <a href="https://drive.google.com/file/d/1GWzzGN3e1wGMRrLC9szAoEBFKJ6zoB-X/view?usp=sharing"> 
+    <img src="https://img.shields.io/badge/Project-View%20Details-FF6B81?style=for-the-badge&logo=googlechrome&logoColor=white" /> 
+  </a> 
 </p>
 
 > 결혼 시장의 정보 비대칭 해소를 위한
@@ -52,10 +52,10 @@
 ### 🎱 CueLinkProject
 
 <p>
-  <a href="큐링크_GITHUB_링크">
+  <a href="https://github.com/leetaehwa1/CueLinkProject_260528">
     <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="큐링크_포트폴리오_또는_시연_링크">
+  <a href="https://docs.google.com/presentation/d/1URxj6qrf6VZhREmb_hNBUOtzkNlnhLZq/edit?usp=drive_link&ouid=105345095890574475606&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/Project-View%20Details-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
