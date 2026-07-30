@@ -21,7 +21,7 @@
 
 ## 🚀 Projects
 
-### 💍 메리뷰 MarryView
+### 💍 메리뷰 MarryView [팀 프로젝트]
 
 <p> 
   <a href="https://github.com/limhyojin3/SpringProjectTeam3"> 
@@ -49,7 +49,7 @@
 
 <br>
 
-### 🎱 CueLinkProject
+### 🎱 CueLinkProject [개인 프로젝트]
 
 <p>
   <a href="https://github.com/leetaehwa1/CueLinkProject_260528">
